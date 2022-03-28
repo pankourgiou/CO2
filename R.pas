@@ -3,7 +3,7 @@
 
 #t1 = time.time()
 
-#x = "ζ"
+#x = "ζ/Atlas/C++"
 
 #print(bool(x))
 
